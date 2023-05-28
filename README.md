@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyabtech&label=Profile%20views&color=0e75b6&style=flat" alt="soumyabtech" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently sudying **B.Tech 2nd year first sem a RCC Institute of Information Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SoumyaBtech?tab=repositories](https://github.com/SoumyaBtech?tab=repositories)
 
@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/soumyabtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/soumyabtech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/soumya-chakraborty-943299260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/soumya-chakraborty-943299260" height="30" width="40" /></a>
+<a href="https://codepen.io/SoumyaBtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/soumyabtech" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumya-chakraborty-943299260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/soumya-chakraborty-943299260" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100089264288424&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100089264288424&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/soumya_ckakraborty?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/soumya_ckakraborty?igshid=zddkntzintm=" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/soumyachakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="soumyachakraborty" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/soumyachakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soumyachakraborty" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/soumyachakrabor3?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soumyachakraborty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soumyachakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyachakraborty" height="30" width="40" /></a>
 </p>
 
@@ -40,8 +40,8 @@
 ## 📘 My top open source projects
 
 <p align="justified">
-    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Giingu&repo=Enhanced-TTVDropBot&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/SoumyaBtech/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Giingu&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SoumyaBtech&repo=Lines-within-the-Triangle-&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/SoumyaBtech/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SoumyaBtech&repo=Recursive-function&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
