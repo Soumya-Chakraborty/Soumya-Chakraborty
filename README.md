@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyabtech&label=Profile%20views&color=0e75b6&style=flat" alt="soumyabtech" /> </p>
 
-- 🌱 I’m currently sudying **B.Tech 2nd year first sem a RCC Institute of Information Technology**
+- 🌱 I’m currently sudying **B.Tech 2nd year first sem from RCC Institute of Information Technology**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SoumyaBtech?tab=repositories](https://github.com/SoumyaBtech?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/SoumyaBtech](https://github.com/SoumyaBtech?tab=repositories)
 
 - 💬 Ask me about **All of my repositories**
 
@@ -39,7 +39,7 @@
 
 ## 📘 My top open source projects
 
-<p align="justified">
+<p align="right">
     <a href="https://github.com/SoumyaBtech/Lines-within-the-Triangle-"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SoumyaBtech&repo=Lines-within-the-Triangle-&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
   <a href="https://github.com/SoumyaBtech/Recursive-function"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SoumyaBtech&repo=Recursive-function&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="custom-icon-badges"></a>
 </p>
