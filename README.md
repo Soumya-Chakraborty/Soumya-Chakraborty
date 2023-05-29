@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="right" width="45%" src="https://github.com/SoumyaBtech/Soumyachakraborty.github.io/blob/main/ami.png"/>
+<img align="right" width="48%" src="https://github.com/SoumyaBtech/Soumyachakraborty.github.io/blob/main/ami.png"/>
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SoumyaBtech&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaBtech&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
@@ -37,7 +37,7 @@
 
 <break>
 
-## 📘 My top open source projects
+<h3 align="right">📘 My top open source projects</h3>
 
 <p align="right">
     <a href="https://github.com/SoumyaBtech/Lines-within-the-Triangle-"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SoumyaBtech&repo=Lines-within-the-Triangle-&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
