@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img align="right" width="48%" src="https://github.com/SoumyaBtech/Soumyachakraborty.github.io/blob/main/ami.png"/>
+<img align="right" width="45%" src="https://github.com/SoumyaBtech/Soumyachakraborty.github.io/blob/main/ami.png"/>
 
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SoumyaBtech&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyaBtech&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
