@@ -1,7 +1,8 @@
+![Alt Text](https://camo.githubusercontent.com/b47506a81e73794a1fba84e43639b0adf7b7f0f69b2b434717c34170cda2dda3/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d63393965333533663736316433313833323263383533633033656263663231622e676966)
 <h1 align="center">Hi 👋, I'm Soumya Chakraborty</h1>
 <h3 align="center">A passionate programmer and frontend developer from India</h3>
 
-<img align="right" width="45%" src="https://media.giphy.com/media/6291rq88STtkc/giphy.gif"/>
+<img align="right" width="45%" src="https://camo.githubusercontent.com/d077f85b35f0d6416693f309f1b8bf60afe5a5a972eaeb8978a54f8c095603be/68747470733a2f2f64656d6f7469782e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30362f486f772d746f2d486972652d5765622d446576656c6f7065722e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyabtech&label=Profile%20views&color=0e75b6&style=flat" alt="soumyabtech" /> </p>
 
