@@ -38,7 +38,7 @@
 
 <break>
 
-<h3 align="right">📘 My top open source projects</h3>
+<h3 align="left">📘 My top open source projects</h3>
 
 <p align="right">
     <a href="https://github.com/SoumyaBtech/Lines-within-the-Triangle-"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SoumyaBtech&repo=Lines-within-the-Triangle-&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
