@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I am a painter also**
 
+- 🕸️ For frontennd development contact me using **https://soumyabtech.github.io/Soumyaportfolio/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/SoumyaBtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/soumyabtech" height="30" width="40" /></a>
