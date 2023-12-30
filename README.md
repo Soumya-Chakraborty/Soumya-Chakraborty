@@ -1,4 +1,6 @@
-![Alt Text](https://camo.githubusercontent.com/b47506a81e73794a1fba84e43639b0adf7b7f0f69b2b434717c34170cda2dda3/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d63393965333533663736316433313833323263383533633033656263663231622e676966)
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/128106669?v=4" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
 <h1 align="center">Hi 👋, I'm Soumya Chakraborty</h1>
 <h3 align="center">A passionate programmer and frontend developer from India</h3>
 
