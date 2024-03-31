@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I am a painter also**
 
-- 🕸️ For frontennd development contact me using **https://Soumya-Chakraborty.github.io/Soumyaportfolio/**
+- 🕸️ For frontennd development contact me using **https://soumya-chakraborty.github.io/PortfolioV2/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
