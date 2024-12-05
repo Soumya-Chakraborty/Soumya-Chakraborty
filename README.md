@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-# 🌟 **Soumya Chakraborty** | Code Craftsman & Creative Mind 🚀
+# 🌟 **Soumya Chakraborty** 🌟
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B32D&center=true&width=600&lines=AI+Enthusiast+%7C+Problem+Solver;Innovator+%7C+Tech+Explorer;Creative+Developer;)
 
