@@ -1,56 +1,93 @@
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/128106669?v=4" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
 </div>
-<h1 align="center">Hi 👋, I'm Soumya Chakraborty</h1>
-<h3 align="center">A passionate programmer and frontend developer from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Soumya-Chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="Soumya-Chakraborty" />
-</p>
-
-- 🌱 I’m currently studying **B.Tech 3nd year, first semester at RCC Institute of Information Technology**.
-- 👨‍💻 Intern at **HiTech System & Services.Ltd**
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/Soumya-Chakraborty?tab=repositories).
-- 💬 Feel free to ask me about **any of my repositories**.
-- 📫 You can reach me at **soumyachakraborty198181@gmail.com**.
-- ⚡ Fun fact: **I am also a artist**.
-- 🕸️ For frontend development inquiries, visit my [portfolio](https://soumya-chakraborty.github.io/PortfolioV2/).
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://codepen.io/Soumya-Chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/soumya-chakraborty-943299260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100089264288424&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/soumya_ckakraborty?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/soumyachakraborty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/soumyachakrabor3?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/soumyachakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
-
 <div align="center">
-<a href="https://github.com/Soumya-Chakraborty"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Soumya-Chakraborty&theme=radical&title_color=ff3068" alt="Soumya-Chakraborty's GitHub Stats"></a>
-<a href="https://github.com/Soumya-Chakraborty"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Chakraborty&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="Soumya-Chakraborty's GitHub Streak"></a>
-</div>
 
-<h3 align="center">📘 My top open source projects</h3>
+# 🌟 **Soumya Chakraborty** | Code Craftsman & Creative Mind 🚀
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B32D&center=true&width=600&lines=AI+Enthusiast+%7C+Problem+Solver;Innovator+%7C+Tech+Explorer;Creative+Developer;)
+
+## 👨‍💻 **About Me**
+
+**Greetings!** I'm a passionate programmer weaving digital magic at the intersection of technology and creativity. My journey is fueled by an insatiable curiosity and a love for transforming ideas into innovative solutions.
+
+## 🎓 **Current Chapter**
+
+**Education:** B.Tech in Computer Science, RCC Institute of Information Technology
+**Professional Growth:** Intern at HiTech System & Services Ltd.
+
+## 🛠️ **Technology Palette**
+
 <p align="center">
-  <a href="https://github.com/Soumya-Chakraborty/DSApy"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Soumya-Chakraborty&repo=DSApy&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="DSApy"></a>
-  <a href="https://github.com/Soumya-Chakraborty/Design_and_Analysis_of_Algorithm"><img width="40%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Soumya-Chakraborty&repo=Design_and_Analysis_of_Algorithm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="Recursive function"></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,r,rust,go" />
 </p>
 
-<p align="right">
-  <a href="https://github.com/Soumya-Chakraborty?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
-<p align="right">
-  <a 
-    <image 
-  <a href="https://www.discord.gg/Soumya-Chakraborty">
-    <img alt="Discord Community" title="Join our community" src="https://custom-icon-badges.herokuapp.com/discord/624217127540359188?color=%23E1AD0E&logo=comments&logoColor=white&style=for-the-badge&labelColor=C79600"/></a><br>
-  <a href="https://github.com/Soumya-Chakraborty?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FGiingu"/></a>
-  <a href="https://github.com/Soumya-Chakraborty?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.herokuapp.com/github/followers/Soumya-Chakraborty?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+### 📚 **Languages & Frameworks I Speak**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-276DC3?style=for-the-badge&logo=rust&logoColor=orange)
+
+## 📊 **My GitHub Odyssey**
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Soumya-Chakraborty&show_icons=true&theme=dracula&hide_border=true&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Soumya-Chakraborty&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-Chakraborty&show_icons=true" alt="GitHub Stats" width="48%" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Chakraborty&theme=dracula&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Chakraborty&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-Chakraborty" alt="GitHub Streak" width="48%" />
+</picture>
+
+## 🌟 **Spotlight Projects**
+
+<a href="https://github.com/Soumya-Chakraborty/DSApy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumya-Chakraborty&repo=DSApy&theme=radical" alt="DSApy" width="45%" />
+</a>
+<a href="https://github.com/Soumya-Chakraborty/Design_and_Analysis_of_Algorithm">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Soumya-Chakraborty&repo=Design_and_Analysis_of_Algorithm&theme=radical" alt="Design and Analysis of Algorithm" width="45%" />
+</a>
+
+## 🎨 **The Artist Behind the Code**
+
+> **"I don't just write code, I craft digital experiences. When I'm not debugging, I'm creating art that tells a story."** 
+
+## 🌐 **Let's Connect & Collaborate!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-chakraborty-943299260/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyachakraborty198181@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soumya_ckakraborty)
+
+## 🔗 **Quick Navigation**
+
+**📂 [All Repositories](https://github.com/Soumya-Chakraborty?tab=repositories)**
+**🌐 [Personal Portfolio](https://soumya-chakraborty.github.io/PortfolioV2/)**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Soumya-Chakraborty&color=blueviolet&style=flat-square)
+
+---
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+
+**✨ Always Learning, Forever Creating ✨**
+
+</div>
