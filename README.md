@@ -9,11 +9,12 @@
   <img src="https://komarev.com/ghpvc/?username=Soumya-Chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="Soumya-Chakraborty" />
 </p>
 
-- 🌱 I’m currently studying **B.Tech 2nd year, first semester at RCC Institute of Information Technology**.
+- 🌱 I’m currently studying **B.Tech 3nd year, first semester at RCC Institute of Information Technology**.
+- 👨‍💻 Intern at **HiTech System & Services.Ltd**
 - 👨‍💻 Check out my projects on [GitHub](https://github.com/Soumya-Chakraborty?tab=repositories).
 - 💬 Feel free to ask me about **any of my repositories**.
 - 📫 You can reach me at **soumyachakraborty198181@gmail.com**.
-- ⚡ Fun fact: **I am also a painter**.
+- ⚡ Fun fact: **I am also a artist**.
 - 🕸️ For frontend development inquiries, visit my [portfolio](https://soumya-chakraborty.github.io/PortfolioV2/).
 
 <h3 align="center">Connect with me:</h3>
