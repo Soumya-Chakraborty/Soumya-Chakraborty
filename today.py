@@ -455,7 +455,7 @@ if __name__ == '__main__':
     """
     if not ACCESS_TOKEN:
         print("ACCESS_TOKEN env variable not set. Running in dummy/static mode.")
-        age_data = daily_readme(datetime.datetime(2024, 4, 30))
+        age_data = daily_readme(datetime.datetime(2004, 4, 30))
         svg_overwrite('dark_mode.svg', age_data, 0, 0, 0, 0, 0, [0, 0, 0])
         svg_overwrite('light_mode.svg', age_data, 0, 0, 0, 0, 0, [0, 0, 0])
         exit(0)
@@ -464,7 +464,7 @@ if __name__ == '__main__':
     user_data, user_time = perf_counter(user_getter, USER_NAME)
     OWNER_ID, acc_date = user_data
     formatter('account data', user_time)
-    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2024, 4, 30))
+    age_data, age_time = perf_counter(daily_readme, datetime.datetime(2004, 4, 30))
     formatter('age calculation', age_time)
     total_loc, loc_time = perf_counter(loc_query, ['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 7)
     formatter('LOC (cached)', loc_time) if total_loc[-1] else formatter('LOC (no cache)', loc_time)
