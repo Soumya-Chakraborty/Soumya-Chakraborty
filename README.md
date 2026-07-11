@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/128106669?v=4" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
+  <a href="https://github.com/Soumya-Chakraborty/Soumya-Chakraborty">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soumya-Chakraborty/Soumya-Chakraborty/main/dark_mode.svg">
+      <img alt="Soumya Chakraborty's GitHub Profile README" src="https://raw.githubusercontent.com/Soumya-Chakraborty/Soumya-Chakraborty/main/light_mode.svg">
+    </picture>
+  </a>
 </div>
 <div align="center">
 
